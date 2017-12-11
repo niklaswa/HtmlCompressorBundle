@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "symfony/symfony": "3.*"
+        "symfony/symfony": ">=3.*"
     },
     "minimum-stability": "dev",
     "autoload": {
